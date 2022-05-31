@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1637682720 source:c:\users\user\desktop\cuarto semestre entre comillas\seminario estructuras de datos\proyectolistas\main.cpp
+	<iostream>
+	<windows.h>
+	<limits>
+
